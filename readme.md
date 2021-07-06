@@ -14,7 +14,7 @@
  IDE used:  VS Code 2019
  </p>
  <br>
- **Steps to run the project**
+ <h3>Steps to run the project</h3>
  
  * Download this github code and install the modules from the requirments.txt file  by  writing this command in your command prompt/terminal 
  >> pip3 install -r requirements.txt
