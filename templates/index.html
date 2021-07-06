@@ -1,0 +1,14 @@
+<p> Hello this a flask app made to show the implementation of Caesar Cipher</p>
+<p> To see how this cipher works please visit <a href="https://en.wikipedia.org/wiki/Caesar_cipher">this link</a></p>
+
+
+<form action='/' method="post">
+        
+          <label for="message">Message</label>
+          <input type="text" name="message">
+
+          <label for="key">Key</label>
+          <input type="number" min="0" max="26" name="key">
+          <input type="submit" class="btn btn-primary" value="Submit">
+            <label for="encryptedmessage">Encrypted Message</label>
+                <input type="text" readonly="readonly" id="encryptedmessage" value="{{encrypted_message}}">
