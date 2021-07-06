@@ -24,3 +24,5 @@
  >> py app.py
  * After running the command above go to any web browser and type localhost:5000 and you will see the image below
  ![](https://raw.githubusercontent.com/kalilinux-aptget/TASK-1/master/Screenshot%202021-07-06%20220623.jpg)
+ * Type in any string and provide a key to encode that string
+ 
